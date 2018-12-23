@@ -188,6 +188,14 @@ footer{
   header{
     padding-bottom: 10px;
   }
+  
+  #showcase{
+    background-color: #f4f4f4;
+  }
+
+  #showcase h1, #showcase p{
+    color: black;
+  }
 
   #newsletter button{
     display: block;
